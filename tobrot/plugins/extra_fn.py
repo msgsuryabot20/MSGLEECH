@@ -33,12 +33,12 @@ async def mannual_gd_upload(client, message):
     process_msg = await message.reply_text("`Processing...⏳`", parse_mode = "markdown", quote = True) 
     if not len(message.text) > 6 :
         await process_msg.delete()
-        await message.reply_text("**‼️You didn't give path to a file‼️😡**\n`Aborting...`", parse_mode = 'markdown', quote = True)
+        await message.reply_text("you didn't give path to a file‼️😡\n`Aborting...`", parse_mode = 'markdown', quote = True)
         return
     path_to_file = ' '.join(message.command[1:])
     if not os.path.exists(path_to_file):
         await process_msg.delete()
-        await message.reply_text(f"**‼️Given file path doesn't exist‼️😡\n`{path_to_file}`\nGive a valid path to file!**\n`Aborting...`", parse_mode = 'markdown', quote = True)
+        await message.reply_text(f"Given file path doesn't exist‼️😡\n`{path_to_file}`\nGive a valid path to file!\n`Aborting...`", parse_mode = 'markdown', quote = True)
         return
     await process_msg.edit("Found a valid path to file...\n`Now Uploading to ☁️Cloud!!!`", parse_mode = 'markdown')
     if not os.path.exists("rclone.conf"):
@@ -113,7 +113,7 @@ async def mannual_gd_upload(client, message):
         time_taken = datetime.timedelta(seconds=int(time.time()-start_time))
         await asyncio.sleep(2)
         await message.reply_text(
-            f"🤖: Uploaded successfully `{os.path.basename(path_to_file)}` <a href='tg://user?id={g_id}'>🤒</a>\n📀 Size: {gjay}\n<i>Time taken: {time_taken}</i>",
+            f"✨: Uploaded successfully `{os.path.basename(path_to_file)}` <a href='tg://user?id={g_id}'>🤒</a>\n📀 Size: {gjay}\n<i>Time taken: {time_taken}</i>",
             reply_markup=button_markup,
             quote = True
         )
@@ -182,7 +182,7 @@ async def mannual_gd_upload(client, message):
         time_taken = datetime.timedelta(seconds=int(time.time()-start_time))
         await asyncio.sleep(2)
         await message.reply_text(
-            f"🤖: Uploaded successfully `{os.path.basename(path_to_file)}` <a href='tg://user?id={g_id}'>🤒</a>\n📀 Size: {gjay}\n<i>Time taken: {time_taken}</i>",
+            f"✨: Uploaded successfully `{os.path.basename(path_to_file)}` <a href='tg://user?id={g_id}'>🤒</a>\n📀 Size: {gjay}\n<i>Time taken: {time_taken}</i>",
             reply_markup=button_markup,
             quote = True
         )
@@ -217,7 +217,7 @@ async def dl_to_local_fn(client, message):
     '''Download a tg file to bot's local storage'''
     usr_id = message.from_user.id
     if not message.reply_to_message:
-        await message.reply("<b>⚠️ Oops ⚠️</b>\n\n <b><i>⊠ Reply with Telegram Media (File / Video)⁉️</b>", quote=True)
+        await message.reply("<b>⚠️ Oops ⚠️</b>\n\n <b><i> Reply with Telegram Media (File / Video)❗</b>", quote=True)
         return
     if len(message.command) > 1:
         new_name = (
