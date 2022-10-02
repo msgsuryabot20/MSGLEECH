@@ -1,4 +1,4 @@
-/n /b MSG LEECH BY MSGSURYA /b/n
+/b MSG LEECH BY MSGSURYA
 
 # for support join [here](https://telegram.dog/msgcreation7)
 # working example group [Leech Here](https://t.me/+GLk32mrUFzRjYjBl)
