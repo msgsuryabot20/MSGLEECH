@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://github.com/MSGSURYABOT18/MSGLEECH" target="_blank"> <img src="https://shields.io/badge/%F0%9F%A7%B2Torrent--LEECH--GDRIVE_Telegram_Leech_BOT%F0%9F%A4%96-red?logo=&style=for-the-badge" alt="MSGLEECH" width="860" height="85"/>
+<p align="center"> <a href="https://github.com/MSGSURYABOT18/MSGLEECH" target="_blank"> <img src="https://shields.io/badge/%F0%9F%A7%B2Torrent--MSGLEECH-BOT-BY-MSGSURYA--%F0%9F%A4%96-red?logo=&style=for-the-badge" alt="MSGLEECH" width="860" height="85"/>
 
 # for support join [here](https://telegram.dog/msgcreation7)
 # working example group [Leech Here](https://t.me/+GLk32mrUFzRjYjBl)
