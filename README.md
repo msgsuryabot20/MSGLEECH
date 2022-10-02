@@ -1,25 +1,24 @@
-<p align="center"> <a href="https://github.com/KangersHub/TorrentLeechX" target="_blank"> <img src="https://shields.io/badge/%F0%9F%A7%B2Torrent--LEECH--GDRIVE_Telegram_Leech_BOT%F0%9F%A4%96-red?logo=&style=for-the-badge" alt="TorrentLeechX" width="860" height="85"/>
 
-# for support join [here](https://telegram.dog/KangersHub)
-# working example group [Leech Here](https://t.me/joinchat/ixcxUlpCInJiNmNl)
-# For Any Issues/Imrovements or Discussions [go here](https://github.com/KangersHub/TorrentLeech-Gdrive/issues) or [here](https://github.com/KangersHub/TorrentLeech-Gdrive/discussions) 
+# for support join [here](https://telegram.dog/msgcreation7)
+# working example group [Leech Here](https://t.me/+GLk32mrUFzRjYjBl)
+# For Any Issues/Imrovements or Discussions [go here](https://github.com/MSGSURYABOT18/MSGLEECH/issues) or [here](https://github.com/MSGSURYABOT18/MSGLEECH/discussions) 
 # Please Leave A star And Fork this Repo and Follow my Github acc....
 # 🤖Telegram Torrent and Direct links Leecher 🔥
 
 ---
 
 # TorrentLeechX (a modified fork of TorrentLeechGdrive with Extra Features....)
-![GitHub Repo stars](https://img.shields.io/github/stars/KangersHub/TorrentLeechX?color=orange&style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/KangersHub/TorrentLeechX?color=green&style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/KangersHub/TorrentLeechX?color=red&style=for-the-badge)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/KangersHub/TorrentLeechX?color=black&style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/KangersHub/TorrentLeechX?color=yellow&style=for-the-badge)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/KangersHub/TorrentLeechX?color=violet&style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/KangersHub/TorrentLeechX?color=teal&style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/KangersHub/TorrentLeechX?color=white&style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/KangersHub/TorrentLeechX?color=blue&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/MSGSURYABOT18/MSGLEECH?color=orange&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/MSGSURYABOT18/MSGLEECH?color=green&style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/MSGSURYABOT18/MSGLEECH?color=red&style=for-the-badge)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/MSGSURYABOT18/MSGLEECH?color=black&style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/MSGSURYABOT18/MSGLEECH?color=yellow&style=for-the-badge)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/MSGSURYABOT18/MSGLEECH?color=violet&style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/MSGSURYABOT18/MSGLEECH?color=teal&style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/MSGSURYABOT18/MSGLEECH?color=white&style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/MSGSURYABOT18/MSGLEECH?color=blue&style=for-the-badge)
 
-<p align="center"> <a href="https://t.me/KangersHub" target="_blank"> <img src="https://shields.io/badge/Support--Group-Join_Now-navy?logo=&style=for-the-badge" alt="support group" width="400" height="45"/>
+<p align="center"> <a href="https://t.me/msgcreation7" target="_blank"> <img src="https://shields.io/badge/Support--Group-Join_Now-navy?logo=&style=for-the-badge" alt="support group" width="400" height="45"/>
 
 ---
 
@@ -238,7 +237,7 @@ client_secret =
 
 
 ## Credits, and Thanks to
-* [KangersHub](https://github.com/KangersHub) for Modding 🙄
+* [MSGSURYA](https://github.com/MSGSURYABOT18) for Modding 🙄
 * [GautamKumar](https://github.com/gautamajay52/TorrentLeech-Gdrive) 😬
 * [SpEcHiDe](https://github.com/SpEcHiDe/PublicLeech) for his wonderful code😚
 * [Rclone Team](https://rclone.org) for theirs awesome tool☁️
