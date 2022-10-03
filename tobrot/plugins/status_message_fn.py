@@ -90,13 +90,13 @@ async def status_message_f(
                 msg += f"<b>═══════════════════════</b>\n"
                 msg += f"\n<b>🔖Filename:</b> <code>{downloading_dir_name}</code>"
                 msg += f"\n<b>📡 Status</b>: <i>Downloading...📥</i>"
-                msg += f"\n<code>{prog}</code>"
+                msg += f"\n<code>〘{prog}〙</code>"
                 msg += f"\n<b>🗃 Downloaded</b>: <code>{file.progress_string()}</code> <b>of</b> <code>{file.total_length_string()}</code>"
                 msg += f"\n<b>📊Speed</b>: <code>{file.download_speed_string()}</code>,"
                 msg += f"<b>🔍ETA:</b> <code>{file.eta_string()}</code>"  
-                #umen = f'<a href="tg://user?id={file.message.from_user.id}">{file.message.from_user.first_name}</a>'
-                #msg += f"\n<b>👤User:</b> {umen} (<code>{file.message.from_user.id}</code>)"
-                #msg += f"\n<b>⚠️Warn:</b> <code>/warn {file.message.from_user.id}</code>"
+                umen = f'<a href="tg://user?id={file.message.from_user.id}">{file.message.from_user.first_name}</a>'
+                msg += f"\n<b>👤User:</b> {umen} (<code>{file.message.from_user.id}</code>)"
+                msg += f"\n<b>⚠️Warn:</b> <code>/warn {file.message.from_user.id}</code>"
                 msg += f"\n{msgg}"
                 msg += f"\n<b>❌ Cancel:</b> <code>/cancel {file.gid}</code>"
                 msg += "\n"
