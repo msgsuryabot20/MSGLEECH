@@ -1,1 +1,2 @@
-worker: python3 -m tobrot
+web: python -m http.server $PORT
+worker: bash start.sh
